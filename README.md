@@ -7,7 +7,7 @@ Repository Back End : projet-4-apet4life-back
 
 ### Installation
 
-``yarn build``
+``yarn``
 ``yarn start``
 
 
